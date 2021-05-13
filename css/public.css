@@ -1,0 +1,27 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+  
+body {
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+.main {
+    background-color: #F9F9F9;
+}
+
+.section {
+    border-top: 4px solid #CCC;
+}
+
+.platform {
+    text-align: center;
+}
