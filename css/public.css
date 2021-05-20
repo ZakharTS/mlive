@@ -19,6 +19,7 @@ body {
 }
 
 .section-title {
+    font-size: xx-large;
     grid-column: 1 / -1;
     margin: -.5rem 0;
     display: flex;
